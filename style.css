@@ -1,6 +1,33 @@
-.container{
-    margin: 30px auto;
+header{
+    height: 100%;
+    background-color: #fffbf0;
 }
-.navbar-logp img{
+.nav-list{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+/* .head-con{
+    margin: 20px auto;
+} */
+.nav-color{
+    background-color: #fffbf0;
+}
+.navbar-logo img{
     width: 200px;
+}
+.front-bg img{
+    width: 300px;
+    
+}
+.buy-now-btn{
+    background-color: #a4bc46;
+    color: white;
+}
+.orange-color{
+    color: #fabe4c;
+}
+.head-title{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
 }
