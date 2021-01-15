@@ -1,23 +1,32 @@
+body{
+    color: #363958;
+}
 header{
     height: 100%;
     background-color: #fffbf0;
+    padding-top: 30px;
 }
 .nav-list{
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'Poppins', sans-serif;
 }
-/* .head-con{
-    margin: 20px auto;
-} */
+
 .nav-color{
     background-color: #fffbf0;
 }
 .navbar-logo img{
-    width: 200px;
+    width: 300px;
+   
 }
 .front-bg img{
-    width: 300px;
-    
+    width: 400px;
+}
+.front-text{
+    font-size: 20px;
+}
+.front-btn{
+    width: 200px;
+    height: 70px;
 }
 .buy-now-btn{
     background-color: #a4bc46;
@@ -27,27 +36,39 @@ header{
 .buy-now-btn a{
     color: white;
     text-decoration: none;
+    font-size: 20px;
 }
 .orange-color{
     color: #fabe4c;
+    font-family: 'Bebas Neue', cursive;
 }
 .head-title{
-    font-size: 50px;
+    font-size: 80px;
     font-weight: bold;
     font-family: 'Bebas Neue', cursive;
 }
-.product-img img{
-    width: 300px;
-    height: 100%;
-    padding: 30px;
-    background-color: #f1f1f1;
-    border-radius: 10px;
+.woman-man-title{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
 }
 .product-card{
-    padding: 40px;
-    border-radius: 10px;
+    background-color: white;
+    border: 0;
+    border-radius: 20px;
+    padding: 20px;
 }
-.card{
+.product-card img{
+    height: 400px;
+    padding: 40px;
+    background-color: #f1f1f1;
+    border-radius: 30px;
+}
+.product{
+    background-color: #fff;
+}
+.product-card-footer{
+    background-color: white;
     border: 0;
 }
 .card-img img{
@@ -64,6 +85,7 @@ header{
 }
 .card-img img{
     width: 100%;
+    margin-top: 20px;
 }
 .card-logo img{
     width: 80px;
@@ -98,3 +120,25 @@ header{
 .contact-us{
     margin-top: 80px;
     background-color: #fffbf0;
+}
+.card-contact img{
+    width: 100%;
+}
+.card-logo{
+    border-radius: 20px;
+}
+.contact-form{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    padding-top: 50px;
+}
+.contact-form input{
+    border-color: rgb(12, 94, 218);;
+}
+.contact-form textarea{
+    border-color: rgb(12, 94, 218);
+}
+.contact{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
