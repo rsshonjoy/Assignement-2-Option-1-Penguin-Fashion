@@ -81,3 +81,20 @@ header{
 .special-title{
     padding-top: 120px;
 }
+.special-title{
+    padding-top: 120px;
+}
+.about-text{
+    color: #271d1d;
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.about-us{
+    margin-top: 100px;
+}
+.about-bg img{
+    height: 500px;
+}
+.contact-us{
+    margin-top: 80px;
+    background-color: #fffbf0;
