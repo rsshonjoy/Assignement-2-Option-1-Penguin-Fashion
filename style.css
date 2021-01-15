@@ -47,3 +47,37 @@ header{
     padding: 40px;
     border-radius: 10px;
 }
+.card{
+    border: 0;
+}
+.card-img img{
+    width: 100%;
+}
+.card-option{
+    width: 100%;
+}
+.card-option img{
+    width: 60px;
+}
+.card{
+    border: 0;
+}
+.card-img img{
+    width: 100%;
+}
+.card-logo img{
+    width: 80px;
+}
+.card-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 15px;
+}
+.card-option{
+    width: 100%;
+}
+.special-title{
+    padding-top: 120px;
+}
