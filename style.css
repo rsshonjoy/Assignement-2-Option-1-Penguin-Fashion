@@ -21,7 +21,12 @@ header{
 }
 .buy-now-btn{
     background-color: #a4bc46;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.buy-now-btn a{
     color: white;
+    text-decoration: none;
 }
 .orange-color{
     color: #fabe4c;
@@ -30,4 +35,15 @@ header{
     font-size: 50px;
     font-weight: bold;
     font-family: 'Bebas Neue', cursive;
+}
+.product-img img{
+    width: 300px;
+    height: 100%;
+    padding: 30px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+}
+.product-card{
+    padding: 40px;
+    border-radius: 10px;
 }
